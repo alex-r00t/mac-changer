@@ -1,9 +1,4 @@
-    __  ______   ______   ________  _____    _   __________________
-   /  |/  /   | / ____/  / ____/ / / /   |  / | / / ____/ ____/ __ \
-  / /|_/ / /| |/ /      / /   / /_/ / /| | /  |/ / / __/ __/ / /_/ /
- / /  / / ___ / /___   / /___/ __  / ___ |/ /|  / /_/ / /___/ _, _/
-/_/  /_/_/  |_\____/   \____/_/ /_/_/  |_/_/ |_/\____/_____/_/ |_|
-
+# MAC Changer
 
 **Author:** [alex-r00t](https://github.com/alex-r00t)
 **Description:** A professional tool to change your MAC address manually or randomly.
@@ -53,4 +48,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 👤 Author
 GitHub: alex-r00t
->>>>>>> a23fa28 (Initial commit - MAC CHANGER tool by alex-r00t)
